@@ -1,0 +1,28 @@
+
+
+HR dataset
+
+
+Problem Statement:
+	1. Why do people leave the company?
+	2. Build a model to predict who will leave?
+
+Outcomes Predictions:
+
+
+Data Acquisition:
+
+
+Data Preparation: 
+
+
+Universe Description:
+
+
+Modeling:
+
+
+Model Evaluation:
+
+
+Deliverable:
