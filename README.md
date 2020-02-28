@@ -5,7 +5,7 @@ A company wants to determine what is causing employees to leave the company, and
 
 They have provided a semi-anonymized dataset containing 606 successful and 76 not successful loans along with their information and transactions. The goal here is to produce a model that can predict whether an employee will leave the company or not and determine what can be done to keep them. 
 
-Overview of the results: [link](/Human Resources Retention.pdf)
+Overview of the results: [link](/Human_Resources_Retention.pdf)
 
 ## Prerequisites
 
